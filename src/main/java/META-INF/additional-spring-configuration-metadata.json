@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "userBucket.macos.path",
+  "type": "java.lang.String",
+  "description": "A description for 'userBucket.macos.path'"
+}]}
